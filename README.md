@@ -1,6 +1,6 @@
 # *Book App*
 
-**Authors**: *Sally Ammous & Dana Kiswani*
+**Authors**: *Dana Kiswani & Sally Ammous* <br>
 **Version**: *1.0.0*
 <hr>
 
