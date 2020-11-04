@@ -29,5 +29,5 @@
 * *superagent: ^6.1.0*
 
 ## *Live Links*
-*[Heroku App](https://dk-sa-booklist.herokuapp.com)*
+*[Heroku App](https://dk-sa-booklist.herokuapp.com)* <br>
 *[GitHub Reop](https://github.com/Dana-Kiswani/book_app)*
